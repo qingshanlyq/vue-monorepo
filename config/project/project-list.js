@@ -1,9 +1,21 @@
 export default [
-   {
-    enName: "threejs",
-    cnName: "threejs",
-    root: "threejs",
-    projectKey: "threejs",
+  {
+    enName: "admin",
+    cnName: "admin",
+    root: "admin",
+    projectKey: "admin",
+  },
+  {
+    enName: "admin1",
+    cnName: "admin1",
+    root: "admin1",
+    projectKey: "admin1",
+  },
+  {
+    enName: "threejsDemo",
+    cnName: "threejsDemo",
+    root: "threejsDemo",
+    projectKey: "threejsDemo",
   },
    {
     enName: "sence",
